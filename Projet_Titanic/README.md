@@ -33,7 +33,3 @@ Le tableau de bord permet d’identifier rapidement :
 ---
 
 🔗 Ce projet s’intègre dans mon portfolio de **Data Analyst** et reflète ma capacité à structurer une analyse de bout en bout.
-
-"""
-
-readme_path
