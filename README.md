@@ -17,8 +17,8 @@ Ces projets viennent compléter ceux réalisés dans le cadre de mon Bootcamp et
 🛠️ **Technos utilisées** : Python (Seaborn), Excel (TCD, filtres, graphiques dynamiques).
 
 📑 **Livrables** :  
-- [Tableau_de_Bord_Titanic.pdf]([./Titanic/Tableau_de_Bord_Titanic.pdf](https://github.com/AndreMBangoura/MyProjectData/blob/main/Projet_Titanic/Tableau_de_Bord_Titanic.pdf) – Rapport complet avec analyse et insights.  
-- [Tableau_de_Bord_Titanic.xlsx]([./Titanic/Tableau_de_Bord_Titanic.xlsx](https://github.com/AndreMBangoura/MyProjectData/blob/main/Projet_Titanic/Tableau_de_Bord_Titanic.xlsx)) – Tableau de bord interactif Excel.
+- [Tableau_de_Bord_Titanic.pdf](https://github.com/AndreMBangoura/MyProjectData/blob/main/Projet_Titanic/Tableau_de_Bord_Titanic.pdf) – Rapport complet avec analyse et insights.  
+- [Tableau_de_Bord_Titanic.xlsx](https://github.com/AndreMBangoura/MyProjectData/blob/main/Projet_Titanic/Tableau_de_Bord_Titanic.xlsx) – Tableau de bord interactif Excel.
 
 ---
 
