@@ -25,11 +25,9 @@ Le tableau de bord permet d’identifier rapidement :
 - L’impact de la classe sociale, du sexe, du port d’embarquement
 - Le rôle de la situation familiale
 
-## 📁 Fichier principal
-
-- `Tableau de Bord Titanic.pdf` : rapport complet avec page de garde, feuille de présentation, analyse détaillée et insights.
-- Fichier Excel disponible pour tester l’interactivité du tableau de bord : `Tableau_de_Bord_Titanic.xlsx`
-
+## 📑 **Livrables** :  
+- [Tableau_de_Bord_Titanic.pdf](https://github.com/AndreMBangoura/MyProjectData/blob/main/Projet_Titanic/Tableau_de_Bord_Titanic.pdf) – Rapport complet avec page de garde, feuille de présentation, analyse détaillée et insights.  
+- [Tableau_de_Bord_Titanic.xlsx](https://github.com/AndreMBangoura/MyProjectData/blob/main/Projet_Titanic/Tableau_de_Bord_Titanic.xlsx) – Fichier Excel disponible pour tester l’interactivité du tableau de bord.
 ---
 
 🔗 Ce projet s’intègre dans mon portfolio de **Data Analyst** et reflète ma capacité à structurer une analyse de bout en bout.
